@@ -1,0 +1,12 @@
+.git
+.github
+.env
+**/.env
+**/node_modules
+**/vendor
+**/.next
+**/build
+**/.dart_tool
+**/coverage
+**/*.log
+docs
